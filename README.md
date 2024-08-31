@@ -14,7 +14,7 @@ This project aims to evaluate various Large Language Models (LLMs) on popular be
 
 ### 1. Benchmark Datasets
 
-We will use benchmark datasets from previous research collaborations, such as those with Mishra, to provide a consistent and reliable basis for evaluation. These datasets are designed to test various aspects of LLM performance, including language understanding, generation, and specific task execution.
+We will use benchmark datasets to provide a consistent and reliable basis for evaluation. These datasets are designed to test various aspects of LLM performance, including language understanding, generation, and specific task execution.
 
 ### 2. LLM Evaluation
 
